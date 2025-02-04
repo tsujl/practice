@@ -1,1 +1,3 @@
-print("hello world")
+#%%
+from osgeo import gdal
+# %%
